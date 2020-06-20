@@ -1,4 +1,4 @@
-# Audio-Bot-App
+# Weather-App
 
 [**Launch Project**](https://vaasu-dhand.github.io/Weather-App/)
 
